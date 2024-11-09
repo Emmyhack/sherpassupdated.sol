@@ -135,4 +135,4 @@ This contract is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or contributions, please contact the contract author at [your-email@example.com].
+For any inquiries or contributions, please contact the contract author at [olajumokeemmanueltayo@gmail.com].
